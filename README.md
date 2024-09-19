@@ -1,4 +1,5 @@
 Hospital Management System
+
 Project Overview: The Hospital Management System (HMS) is a comprehensive full-stack application designed to streamline the management of healthcare operations. Built using Java J2EE technologies, the system provides an efficient platform for administrators, doctors, and patients to interact seamlessly.
 
 Technologies Used:
